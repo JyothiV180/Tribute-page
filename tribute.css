@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:pale floralwhite;
+}
+
+h1 {
+    color:black;
+    text-align: center;
+}
+h2{
+    color:maroon;
+    text-align:center;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 20px;
+    text-align:left;
+}
+h3{
+    text-align:center;
+    colour:dark black;
+}
+p{
+    text-align:left;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
